@@ -8,7 +8,7 @@ pygments: true
 name: Teze Blog
 markdown: redcarpet
 permalink: /:categories/:title/
-url: http://teze.github.io/
+url: http://teze.github.io
 
 title: Teze Blog
 description: Teze Blog
@@ -26,7 +26,7 @@ rss_path: feed.xml
 categories_path: categories.html
 tags_path: tags.html
 
-BASE_PATH: http://teze.github.io/
+BASE_PATH: http://teze.github.io
 
 
 

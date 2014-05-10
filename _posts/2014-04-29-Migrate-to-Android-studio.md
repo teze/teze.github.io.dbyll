@@ -1,3 +1,10 @@
+---
+layout: post
+title: Android studio 从IntelliJ项目的迁移到Gradle 构建环境
+categories: [general, demo, sample]
+tags: [demo, dbyll, dbtek, sample2]
+description: Sample placeholder post.
+---
 
 # Android studio 从IntelliJ项目的迁移到Gradle 构建环境
 

@@ -6,7 +6,7 @@ exclude: ["README.md"] # files to exclude
 pygments: true
 
 name: Teze Blog
-markdown: kramdown
+markdown: redcarpet
 markdown_ext:  markdown,mkdown,mkdn,mkd,md
 permalink: /:categories/:title/
 url: http://teze.github.io

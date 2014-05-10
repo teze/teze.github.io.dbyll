@@ -7,27 +7,26 @@ pygments: true
 
 name: Teze Blog
 markdown: redcarpet
-
 permalink: /:categories/:title/
 url: http://teze.github.io/
 
-title: dbyll
-description: Stylish Jekyll Theme
+title: Teze Blog
+description: Teze Blog
 author:
-  name: dbyll
-  email: dbyll@ismaildemirbilek.com
-  github: dbtek
-  twitter: asd123
-  pinterest: asd123
-  linkedin: asd123
-  bio: Your stylish, minimalist theme!
+  name: Teze
+  email: teze@teze.name
+  github: teze
+  twitter: teze
+  pinterest: teze
+  linkedin: teze
+  bio: teze Blog
   email_md5: 726351295ec82e145928582f595aa3aa
 
 rss_path: feed.xml
 categories_path: categories.html
 tags_path: tags.html
 
-BASE_PATH: http://dbtek.github.io/dbyll
+BASE_PATH: http://teze.github.io/
 
 
 

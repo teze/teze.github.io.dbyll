@@ -1,3 +1,10 @@
+---
+layout: post
+title: SwipeBackLayout 滑动返回关闭界面控件
+categories: [general, demo]
+tags: [demo, dbyll, dbtek]
+description: Sample placeholder post.
+---
 
 #SwipeBackLayout 滑动返回关闭界面控件
 

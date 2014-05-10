@@ -1,3 +1,10 @@
+---
+layout: post
+title: SwipeBackLayout滑动返回关闭界面控件
+categories: [Android]
+tags: [Android,Layout]
+fullview: true
+---
 
 #SwipeBackLayout 滑动返回关闭界面控件
 

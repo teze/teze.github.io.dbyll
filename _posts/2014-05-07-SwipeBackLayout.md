@@ -1,3 +1,11 @@
+---
+layout: post
+title: SwipeBackLayout滑动返回关闭界面控件
+categories: [Android]
+tags: [Android,Layout]
+fullview: true
+---
+
 <html>
 <head>
 <meta charset="utf-8">

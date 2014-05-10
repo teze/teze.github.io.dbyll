@@ -7,6 +7,7 @@ pygments: true
 
 name: Teze Blog
 markdown: kramdown
+markdown_ext:  markdown,mkdown,mkdn,mkd,md
 permalink: /:categories/:title/
 url: http://teze.github.io
 

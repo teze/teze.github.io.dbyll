@@ -6,7 +6,7 @@ tags: [demo, dbyll, dbtek]
 description: Sample placeholder post.
 ---
 
-<!DOCTYPE html>
+
 <html>
 <head>
 <meta charset="utf-8">

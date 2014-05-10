@@ -1,0 +1,5 @@
+name: Teze Blog
+markdown: redcarpet
+pygments: true
+permalink: /:categories/:title/
+url: http://teze.github.io/
